@@ -6,3 +6,8 @@ Se realizo un análisis de un Dataset en base de una preguntas guías las cuales
 ¿Qué meses son los más populares para los lanzamientos? 
 ¿Se han vuelto más seguras las misiones espaciales o las posibilidades de fracaso se han mantenido sin cambios?
 
+Realizado en jupyter notebook, lista de las librerías utilizadas: Pandas: https://pandas.pydata.org/ Numpy: https://numpy.org/
+
+Son necesarias para compilar el programa
+
+Dataset utilizado: https://www.kaggle.com/datasets/sefercanapaydn/mission-launches
