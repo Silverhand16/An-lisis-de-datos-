@@ -1,5 +1,5 @@
 # An-lisis-de-datos-
-Se realizo un análisis de un Dataset en base de una preguntas guías las cuales son las siguientes:
+Se realizo un análisis de un Dataset en base de unas preguntas guías las cuales son las siguientes:
 ¿Qué organización lanzó más misiones espaciales en un año determinado?
 ¿Cuántos lanzamientos se realizaron por año? 
 ¿Cómo ha variado el costo de una misión espacial a lo largo del tiempo?
